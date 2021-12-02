@@ -2337,3 +2337,13 @@ body {
         justify-content: center;
         align-items: center;
 }
+
+.in-progress{
+    color: #eb1022;
+    font-weight: 500;
+}
+
+.accepted {
+    color: #2ebd59;
+    font-weight: 500;
+}
