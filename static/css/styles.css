@@ -1374,7 +1374,7 @@ a.resume-btn:active {
 
 #portfolio .coming-soon {
     margin-bottom: 50px;
-    text-transform: lowercase;
+    text-transform: none;
 }
 
 #portfolio .portfolio-item-wrapper {
