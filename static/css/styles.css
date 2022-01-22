@@ -2351,3 +2351,8 @@ body {
 .ack{
     color: #CC2127;
 }
+
+.in-review{
+    color: rgb(255, 209, 6);
+    font-weight: 500;
+}
